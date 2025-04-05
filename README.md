@@ -1,0 +1,1 @@
+"# SupabaseYpgAdmin4Relaciones" 
